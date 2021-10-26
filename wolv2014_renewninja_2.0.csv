@@ -1,4 +1,4 @@
-time,local_time,electricity,irradiance_direct,irradiance_diffuse,temperature,missing
+day_and_time,local_time,electricity,global_h,irradiance_diffuse,temperature,missing
 2015/01/01 00:00,01/01/2015 00:00,0,0,0,7.116,0
 2015/01/01 01:00,01/01/2015 01:00,0,0,0,7.059,0
 2015/01/01 02:00,01/01/2015 02:00,0,0,0,7.394,0
