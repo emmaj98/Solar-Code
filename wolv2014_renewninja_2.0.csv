@@ -1,6 +1,3 @@
-# Renewables.ninja Solar PV (Point API) - 52.629, -2.119 - Version: 1.1 (using GSEE v0.3.1) - License: https://creativecommons.org/licenses/by-nc/4.0/ - Reference: https://doi.org/10.1016/j.energy.2016.08.060,,,,,
-# Units: time in UTC, local_time in Europe/London, electricity in kW, irradiance_direct in kW/m², irradiance_diffuse in kW/m², temperature in ºC, missing in binary flag
-"# {""units"": {""time"": ""UTC"""," ""local_time"": ""Europe/London"""," ""electricity"": ""kW"""," ""irradiance_direct"": ""kW/m\u00b2"""," ""irradiance_diffuse"": ""kW/m\u00b2"""," ""temperature"": ""\u00baC"""," ""missing"": ""binary flag""}"
 time,local_time,electricity,irradiance_direct,irradiance_diffuse,temperature,missing
 2015/01/01 00:00,01/01/2015 00:00,0,0,0,7.116,0
 2015/01/01 01:00,01/01/2015 01:00,0,0,0,7.059,0
