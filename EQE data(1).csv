@@ -1,4 +1,4 @@
-Wavelength (nm),EQE (%),Intergrated current (mA cm-2)
+Wavelength,EQE,Intergrated_current
 380,78.397,0.03368
 382,78.51328,0.06206
 384,78.62956,0.08689
